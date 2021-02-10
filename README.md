@@ -7,7 +7,7 @@ An Elixir helper module for generating cryptographically secure tokens.
 ```elixir
 def deps do
   [
-    {:sahnee_token, git: "ssh://git@appsrv01.sahnee.internal:7999/lib/ex-sahnee.token.git", tag: "master"}
+    {:sahnee_token, git: "ssh://git@github.com:Sahnee-DE/Sahnee.Token.git", tag: "master"}
   ]
 end
 ```
